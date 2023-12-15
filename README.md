@@ -1,7 +1,7 @@
 # Causal Discovery In Video via Deep Neural Networks
 
 ## Introduction
-This project focuses on identifying Granger causal relationships in video data using Deep Neural Networks, with a specific emphasis on sports video analysis. Here is our [final report](https://github.com/QijunYang1/Causal-Discovery-In-Video-via-DNNs/blob/main/Final_Report_Causal_Discovery_In_Video_via_DNNs.pdf)
+This project focuses on identifying Granger causal relationships in video data using Deep Neural Networks, with a specific emphasis on sports video analysis. Here is our [final report](https://github.com/QijunYang1/Causal-Discovery-In-Video-via-DNNs/blob/main/Final_Report_Causal_Discovery_In_Video_via_DNNs.pdf). To replicate our results, please see our [google drive](https://drive.google.com/drive/folders/1zSfbF2Nk4oLh6U5NoPAc0LnLpip3G1eV?usp=sharing) for more information.
 
 ## Methodology
 The project is divided into three phases:
