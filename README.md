@@ -28,4 +28,6 @@ The project comprises three phases:
 - Qijun: Faster RCNN and Neural Causality Network.
 
 ## Contact
-Email: [yqj1317@outlook.com](mailto:yqj1317@outlook.com)
+- Qijun: [yqj1317@outlook.com](mailto:yqj1317@outlook.com) or [qijun.yang@duke.edu](qijun.yang@duke.edu)
+- Haoran: [hl449@duke.edu](mailto:hl449@duke.edu)
+- Elinor: [yc493@duke.edu](mailto:yc493@duke.edu)
